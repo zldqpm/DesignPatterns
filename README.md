@@ -9,7 +9,6 @@ c#+Net7控制台实现的23种设计模式
         4. 抽象工厂模式（Abstract Factory Pattern）
         5. 建造者模式（Builder Pattern）
         6. 原型模式（Prototype Pattern）
-
     结构型模式（Structural Patterns）：
         7. 适配器模式（Adapter Pattern）
         8. 桥接模式（Bridge Pattern）
@@ -18,7 +17,6 @@ c#+Net7控制台实现的23种设计模式
         11. 外观模式（Facade Pattern）
         12. 享元模式（Flyweight Pattern）
         13. 代理模式（Proxy Pattern）
-
     行为型模式（Behavioral Patterns）：
         14. 责任链模式（Chain of Responsibility Pattern）
         15. 命令模式（Command Pattern）
